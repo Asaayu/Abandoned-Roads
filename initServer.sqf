@@ -13,6 +13,7 @@
 		[
 		[12,12,0],15
 		]
+	]
 	] execVM "AbandonedRoads\init.sqf"
 */
 [] execVM "AbandonedRoads\init.sqf";
